@@ -2,6 +2,7 @@ alias ls='ls -G'
 alias ll='ls -alG'
 alias whereami='pwd'
 alias df='df -H'
+alias repl='xcrun swift'
 
 ### Added by the Heroku Toolbelt
 ### export PATH="/usr/local/heroku/bin:$PATH"
